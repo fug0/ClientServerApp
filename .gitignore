@@ -1,0 +1,11 @@
+/.vs
+/out
+/CMakeSettings.json
+
+/Client/.vs
+/Client/out
+/Client/CMakeSettings.json
+
+/Multithreaded_TCP_Server/.vs
+/Multithreaded_TCP_Server/out
+/Multithreaded_TCP_Server/CMakeSettings.json
